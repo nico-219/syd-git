@@ -30,5 +30,24 @@ Tant que je ne fais pas de pull request et qu'elle n'est pas acceptée, le dépo
 ## Gitgraph
 
 ### Task 7
+1. nom de la branche
+
+2. hash de commit
+
+3. message de commit
+
+4. auteur du commit
+
+5. tag
+
+6. last commit
+
+7. branche secondaire par un deuxième auteur (feature-auth)
+
+8. last commit de la branche initiale
+
+9. branche secondaire (develop)
+
+10. commit initial
 
 ![Gitgraph](img/gitgraph.svg)
