@@ -1,7 +1,8 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Nicolas Begert nico-219
 
 ## Basics
 ### Task 1
+Les changements ont été faits, mais ils n'ont pas été commit ni push. 
 
 ### Task 2
 
